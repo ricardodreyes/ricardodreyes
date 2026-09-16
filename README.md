@@ -1,23 +1,17 @@
 # Hey, I'm Ricardo
 
-Business analytics senior at USF, graduating December 2026, and looking for my first data engineering/analytics role. By day I build the Python pipelines behind Giraux Fine Jewelry's online store: a NetSuite-to-Shopify catalog sync for 849 products, customer contact data prep, and event tracking for the storefront. The projects below are mine start to finish, pipeline to site.
+Business analytics senior at USF, graduating December 2026, looking for my first data engineering/analytics role ([resume](https://ricardoreyes.dev/resume)). By day I build the Python pipelines behind Giraux Fine Jewelry's online store, including a NetSuite-to-Shopify catalog sync for 849 products. The projects below are mine start to finish.
 
 **What I work with:** SQL, Python, dbt, DuckDB, PostgreSQL, pandas, scikit-learn, XGBoost, R, Tableau, Shopify, Vercel
 
-**Outside of work:** lifting, and keeping tabs on San Francisco. Two of the projects below started as curiosity about how the city actually runs.
-
-Happy to talk through any of these, and genuinely keen on a data role starting early 2027. hello@ricardoreyes.dev
+**Outside of work:** lifting, and keeping tabs on San Francisco, which is where two of the projects below came from.
 
 ## Selected work
 
-- [SF Muni Equity Tracker](https://github.com/ricardodreyes/sf-muni-equity): 28.7 million Muni arrivals joined to census tract income. Routes through the poorest tracts average 2.6 times the delay of the richest. Most of that gap is 3 cable cars, though. [Live site](https://sf-muni-equity.vercel.app) with a choropleth and a live vehicle map.
-- [SF Accountability Ledger](https://github.com/ricardodreyes/sf-equity-tracker): 12 reporting deadlines San Francisco wrote into its own laws, checked against primary sources every 2 weeks. It scores filing and findability separately, because a report can be filed and still have no page anywhere. [Live site](https://site-slpwlk.vercel.app).
-- [gtm-warehouse](https://github.com/ricardodreyes/gtm-warehouse): a dbt warehouse on DuckDB built on my own cold outreach data. SCD type 2 lead history, a late-arriving reply fact with a 14-day lookback, 76 data tests, and a synthetic dataset so you can run it without my private files.
-- [aidep](https://github.com/aidep-dev/aidep): Dependabot for AI APIs. It finds deprecated model and API usage in a repo and opens the migration pull request.
-
-## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoreyesii/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@ricardoreyes.dev) [![Portfolio](https://img.shields.io/badge/Portfolio-ricardoreyes.dev-512D8B?style=for-the-badge)](https://ricardoreyes.dev) [![Resume](https://img.shields.io/badge/Resume-PDF-512D8B?style=for-the-badge)](https://ricardoreyes.dev/resume)
+- [SF Muni Equity Tracker](https://github.com/ricardodreyes/sf-muni-equity): 28.7 million Muni arrivals joined to census tract income. Routes through the poorest tracts average 2.6 times the delay of the richest. Most of that gap is 3 cable cars, though. [Live map](https://sf-muni-equity.vercel.app).
+- [SF Accountability Ledger](https://github.com/ricardodreyes/sf-equity-tracker): 12 reporting deadlines San Francisco wrote into its own laws, checked against primary sources every 2 weeks. It scores filed and findable separately. [Live site](https://site-slpwlk.vercel.app).
+- [gtm-warehouse](https://github.com/ricardodreyes/gtm-warehouse): a dbt warehouse on DuckDB over my own cold outreach data. SCD type 2 lead history, a late-arriving reply fact, 76 data tests, and a synthetic dataset so anyone can run it.
+- [aidep](https://github.com/aidep-dev/aidep): Dependabot for AI APIs. Finds deprecated model and API usage in a repo and opens the migration PR.
 
 ## Tech stack
 
