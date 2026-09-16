@@ -1,6 +1,12 @@
-# Ricardo Reyes
+# Hey, I'm Ricardo
 
-I'm a business analytics senior at the University of San Francisco, graduating December 2026. Looking for entry-level data engineering/analytics roles. At Giraux Fine Jewelry I build the Python pipelines behind the store: a NetSuite-to-Shopify catalog sync for 849 products, customer contact data preparation, and event tracking for the storefront.
+Business analytics senior at USF, graduating December 2026, and looking for my first data engineering/analytics role. By day I build the Python pipelines behind Giraux Fine Jewelry's online store: a NetSuite-to-Shopify catalog sync for 849 products, customer contact data prep, and event tracking for the storefront. The projects below are mine start to finish, pipeline to site.
+
+**What I work with:** SQL, Python, dbt, DuckDB, PostgreSQL, pandas, scikit-learn, XGBoost, R, Tableau, Shopify, Vercel
+
+**Outside of work:** lifting, and keeping tabs on San Francisco. Two of the projects below started as curiosity about how the city actually runs.
+
+Happy to talk through any of these, and genuinely keen on a data role starting early 2027. hello@ricardoreyes.dev
 
 ## Selected work
 
@@ -9,6 +15,10 @@ I'm a business analytics senior at the University of San Francisco, graduating D
 - [gtm-warehouse](https://github.com/ricardodreyes/gtm-warehouse): a dbt warehouse on DuckDB built on my own cold outreach data. SCD type 2 lead history, a late-arriving reply fact with a 14-day lookback, 76 data tests, and a synthetic dataset so you can run it without my private files.
 - [aidep](https://github.com/aidep-dev/aidep): Dependabot for AI APIs. It finds deprecated model and API usage in a repo and opens the migration pull request.
 
-I work with SQL, Python, dbt, DuckDB and PostgreSQL. Classes covered R, Tableau and machine learning, where I built an XGBoost classifier in spring 2026.
+## Socials
 
-[Portfolio](https://ricardoreyes.dev) · [Resume](https://ricardoreyes.dev/resume) · [LinkedIn](https://www.linkedin.com/in/ricardoreyesii/) · [Email](mailto:hello@ricardoreyes.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardoreyesii/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@ricardoreyes.dev) [![Portfolio](https://img.shields.io/badge/Portfolio-ricardoreyes.dev-512D8B?style=for-the-badge)](https://ricardoreyes.dev) [![Resume](https://img.shields.io/badge/Resume-PDF-512D8B?style=for-the-badge)](https://ricardoreyes.dev/resume)
+
+## Tech stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
